@@ -1,7 +1,6 @@
 # Controle de Academia
 
 Programa 100% funcional, usado para cadastrar novos instrutores e membros com suas informações de cadastro. <br>
-
 Funcionalidades `Criar`, `Ver`, `Editar`, `Salvar` e `Deletar` seus cadastros!
 
 # Área de Instrutores
